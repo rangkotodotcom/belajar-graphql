@@ -1,0 +1,21 @@
+{
+  "name": "belajar-graphql",
+  "version": "1.0.0",
+  "description": "belajar graphql dasar dengan node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphql",
+    "nodejs"
+  ],
+  "author": "rangkotodotcom",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0",
+    "graphql-http": "^1.22.0"
+  }
+}
